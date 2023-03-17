@@ -1,0 +1,6 @@
+geometry
+*.[oa]
+*~
+*swp
+*geometry
+.vscode/
