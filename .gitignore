@@ -1,11 +1,6 @@
-*.o
-
-*.exe
-
-src/bin
-
-src/obj
-
+geometry
+*.[oa]
+*~
+*swp
+*geometry
 .vscode/
-
-*geometry-Kitikat111
